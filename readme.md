@@ -4,7 +4,7 @@ Welcome to the repository for all projects made with Javascript! Here you'll fin
 
 ## Table of Contents
 
-1. [Project 1](#project-1)
+1. <a href="url">Project 1</a>
 
 ## Project 1
 
